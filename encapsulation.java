@@ -15,10 +15,10 @@ class A
 }
 class B
 {
-    pubic static void manin(String[]args) {
+    public static void manin(String[]args) {
         
         Ar=new A();
-        r.setValue(100)5;
+        r.setValue(100);
         System.out.print(r.getValue());
     }
 }
