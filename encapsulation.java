@@ -10,7 +10,7 @@ class A
 
     public int getValue()
     {
-        return value;
+        return value; /*output will be 100*/
     }
 }
 class B
