@@ -17,7 +17,7 @@ class B
 {
     public static void manin(String[]args) {
         
-        Ar=new A();
+        A r=new A();
         r.setValue(100);
         System.out.print(r.getValue());
     }
