@@ -15,7 +15,7 @@ class A
 }
 class B
 {
-    public static void manin(String[]args) {
+    public static void main(String[]args) {
         
         A r=new A();
         r.setValue(100);
